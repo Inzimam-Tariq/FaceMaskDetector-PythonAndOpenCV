@@ -18,7 +18,7 @@
     <br>
 
 ## Multiple face mask detection proof
-[Multi-face mask detection](https://github.com/Inzimam-Tariq/FaceMaskDetector-PythonAndOpenCV/blob/main/images/multiple%20face%20mask%20detection.png)
+![Multi-face mask detection](https://github.com/Inzimam-Tariq/FaceMaskDetector-PythonAndOpenCV/blob/main/images/multiple%20face%20mask%20detection.png)
 
 
 ## How to build on your system
