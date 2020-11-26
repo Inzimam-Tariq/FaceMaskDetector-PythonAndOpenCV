@@ -27,4 +27,4 @@
 7. run "python train_mask_detector.py" to train your model. (It will take quite a long time.)
 8. run the "detect_mask_video.py" to open camera and see the app working. (It will take quite a long time.)
 
-Thats it :smile:.
+That's it :smile:.
