@@ -4,6 +4,7 @@
 1. [Face Mask Detector Demo Video](https://www.youtube.com/watch?v=0mpYdT4xCQ4)
 2. [License](https://github.com/Inzimam-Tariq/FaceMaskDetector-PythonAndOpenCV/blob/main/LICENSE)
 3. [How to build](#how-to-build-on-your-system)
+4. [Multi-face mask detection proof](#multiple-face-mask-detection-proof)
 
 ## Demo Video
 <div align="center">
@@ -15,6 +16,10 @@
       </a>
     </div>
     <br>
+
+## Multiple face mask detection proof
+[Multi-face mask detection](https://github.com/Inzimam-Tariq/FaceMaskDetector-PythonAndOpenCV/blob/main/images/multiple%20face%20mask%20detection.png)
+
 
 ## How to build on your system
 1. Clone the repo or Download and extract
