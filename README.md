@@ -27,7 +27,7 @@
 3. Run "pip install -r requirements.txt" command without qoute (it will install all the dependencies)
 4. Open train_mask_detector.py file and change the path of dataset i.e. on my system its "D:\Web\FaceMaskDetector-PythonAndOpenCV\dataset"
 5. If everything goes normal you can proceed to step 7
-6. OpenCV may not be istalled properly if so, download and istall OpenCv
+6. OpenCV may not be istalled properly if so, download and install OpenCv
 [Here is a good documentation](https://pysource.com/2019/03/15/how-to-install-python-3-and-opencv-4-on-windows)
 7. run "python train_mask_detector.py" to train your model. (It will take quite a long time.)
 8. run the "detect_mask_video.py" to open camera and see the app working. (It will take quite a long time.)
