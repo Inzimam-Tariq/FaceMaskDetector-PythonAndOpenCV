@@ -3,8 +3,10 @@
 ## Table of content
 1. [Face Mask Detector Demo Video](https://www.youtube.com/watch?v=0mpYdT4xCQ4)
 2. [License](https://github.com/Inzimam-Tariq/FaceMaskDetector-PythonAndOpenCV/blob/main/LICENSE)
-3. [How to build](#how-to-build-on-your-system)
-4. [Multi-face mask detection proof](#multiple-face-mask-detection-proof)
+3. [System and version used](#system-and-versions-used)
+4. [Requirements](https://github.com/Inzimam-Tariq/FaceMaskDetector-PythonAndOpenCV/blob/main/requirements.txt)
+5. [How to build](#how-to-build-on-your-system)
+6. [Multi-face mask detection proof](#multiple-face-mask-detection-proof)
 
 ## Demo Video
 <div align="center">
@@ -17,9 +19,12 @@
     </div>
     <br>
 
-## Multiple face mask detection proof
-![Multi-face mask detection](https://github.com/Inzimam-Tariq/FaceMaskDetector-PythonAndOpenCV/blob/main/images/multiple%20face%20mask%20detection.png)
-
+## System and versions used
+I used 
+- windows 10 OS
+- Python 3.7 (because tensorflow is not currently available for Python 3.9)
+- Architecture is 64-bit (Windows, Python, OpenCV)
+- For versions of dependencies you can read [requirements.txt](https://github.com/Inzimam-Tariq/FaceMaskDetector-PythonAndOpenCV/blob/main/requirements.txt)
 
 ## How to build on your system
 1. Clone the repo or Download and extract
@@ -33,3 +38,7 @@
 8. run the "detect_mask_video.py" to open camera and see the app working. (It will take quite a long time.)
 
 That's it :smile:.
+
+## Multiple face mask detection proof
+![Multi-face mask detection](https://github.com/Inzimam-Tariq/FaceMaskDetector-PythonAndOpenCV/blob/main/images/multiple%20face%20mask%20detection.png)
+
